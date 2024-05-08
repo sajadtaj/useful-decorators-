@@ -1,0 +1,2 @@
+{'function': 'my_function', 'timestamp': '2024-05-08 12:11:26', 'error': 'division by zero'}
+{'function': 'my_function', 'timestamp': '2024-05-08 12:13:08', 'error': "unsupported operand type(s) for /: 'int' and 'str'"}

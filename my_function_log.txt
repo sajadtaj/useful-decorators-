@@ -1,0 +1,2 @@
+{'function': 'my_function', 'result': 8, 'timestamp': '2024-05-08 12:00:27', 'execution_time': 2.00809383392334}
+{'function': 'my_function', 'result': 43, 'timestamp': '2024-05-08 12:06:50', 'execution_time': 2.005293846130371}
